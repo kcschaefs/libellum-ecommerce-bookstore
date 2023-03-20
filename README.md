@@ -16,19 +16,19 @@ Explore page
 A book store webpage.
 
 ## Tech Stack
-Technologies used:
-React
-Express
-MongoDB
-React Bootstrap
-Google Books API
-Axios
+- Technologies used:
+- React
+- Express
+- MongoDB
+- React Bootstrap
+- Google Books API
+- Axios
 
 ## Install 
 
 npm install
 
 ## Team
-[OdetotheCode](https://github.com/OdeToTheCode)
-[tesseir](https://github.com/tesseir)
-[MiloCohenElyanow](https://github.com/MiloCohenElyanow)
+- [Jacob Figueroa](https://github.com/OdeToTheCode)
+- [Tess Eir](https://github.com/tesseir)
+- [Milo Cohen-Elyanow](https://github.com/MiloCohenElyanow)
