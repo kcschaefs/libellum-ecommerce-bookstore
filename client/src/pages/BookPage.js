@@ -57,6 +57,7 @@ const BookPage = () => {
           <hr />
           <h3>Written By:&nbsp;&nbsp;{displayAuthors(book)}</h3>
           <p>
+            {/* I would prefer to have used a different option other than dangerously set inner html as it is a security risk, however we didn't have time to research and incorporate that into this class project */}
             <span dangerouslySetInnerHTML={{ __html: book.description }}></span>
           </p>
           <p>{book.language}</p>
