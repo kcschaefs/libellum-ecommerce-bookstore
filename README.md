@@ -27,3 +27,8 @@ Axios
 ## Install 
 
 npm install
+
+## Team
+@OdetotheCode
+@tesseir
+@MiloCohenElyanow
