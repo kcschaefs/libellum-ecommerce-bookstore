@@ -29,6 +29,6 @@ Axios
 npm install
 
 ## Team
-@OdetotheCode
-@tesseir
-@MiloCohenElyanow
+[OdetotheCode](https://github.com/OdeToTheCode)
+[tesseir](https://github.com/tesseir)
+[MiloCohenElyanow](https://github.com/MiloCohenElyanow)
