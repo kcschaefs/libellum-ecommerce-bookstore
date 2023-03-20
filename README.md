@@ -32,3 +32,4 @@ npm install
 - [Jacob Figueroa](https://github.com/OdeToTheCode)
 - [Tess Eir](https://github.com/tesseir)
 - [Milo Cohen-Elyanow](https://github.com/MiloCohenElyanow)
+- [Kristen Schaefer](https://github.com/kcschaefs)
