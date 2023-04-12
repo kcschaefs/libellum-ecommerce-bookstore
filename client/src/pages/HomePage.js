@@ -3,9 +3,6 @@ import axios from "axios"
 import { useNavigate } from "react-router-dom";
 import { mapToBook } from "../components/Shared";
 import banner from "../assets/images/banner.jpeg";
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
-</style>
 
 const HomePage = () => {
   const [bbooks, setBBooks] = useState([])
