@@ -16,7 +16,7 @@ const Cart = (props) => {
 
   const fetchCart = async () => {
     const response = await axios.get(`/api/cart/${user._id}`);
-    setCart(response.data.books);
+    response && setCart(response.data.books);
   }
 
   const deleteBook = async (id) => {
